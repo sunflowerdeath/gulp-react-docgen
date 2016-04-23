@@ -1,0 +1,27 @@
+{
+  "name": "gulp-react-docgen",
+  "version": "0.1.1",
+  "description": "Gulp plugin for react-docgen",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "react",
+    "react-docgen"
+  ],
+  "author": "sunflowerdeath",
+  "license": "Unlicense",
+  "dependencies": {
+    "react-docgen": "^2.7.0",
+    "through2": "^2.0.1",
+    "underscore": "^1.8.3",
+    "vinyl": "^1.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "mocha": "^2.4.5"
+  }
+}
